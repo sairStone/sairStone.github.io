@@ -1,2 +1,8 @@
 # sairblog.github.io
-I'm sair Man!
+
+#include <iostream>
+int main(){
+    std::cout << " I'm Sair Man!,Hello World!" << std::endl;
+    
+    return 0;
+}
