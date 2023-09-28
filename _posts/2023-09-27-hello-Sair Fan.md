@@ -4,7 +4,7 @@ title: 'Hello Sair Fan'
 date: 2023-09-27
 author: Jekyll
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: '../assets/articleCover/cover2.png'
 tags: SairFan
 ---
 
