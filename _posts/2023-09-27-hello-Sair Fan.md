@@ -8,7 +8,7 @@ cover: '../assets/articleCover/cover2.png'
 tags: SairFan
 ---
 
-> Transform your plain text into static websites and blogs.
+> This is welcome page.
 
 # Welcome
 
