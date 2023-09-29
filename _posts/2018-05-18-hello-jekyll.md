@@ -4,7 +4,7 @@ title: 'Hello Jekyll'
 date: 2017-04-18
 author: Jekyll
 color: rgb(255,210,32)
-cover: 'https://cdn.jsdelivr.net/gh/sairStone/imgGallery/articleCover/cover1.png'
+cover: '../assets/articleCover/cover1.jpg'
 tags: jekyll
 ---
 
